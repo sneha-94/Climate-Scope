@@ -5,7 +5,7 @@ A minimal scaffold for prototyping climate data visualizations and quick UI expe
 Key info
 - Purpose: quick prototypes / exploration
 - Status: early / draft
-- Owner: BlacklegCODE
+- Owner: Sneha Singh
 
 Quick peek
 - Browse the repo to see scripts, demo pages, and example data.
